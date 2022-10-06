@@ -38,3 +38,5 @@ runs:
 branding:
   icon: 'code'
   color: 'yellow'
+- name: Free Disk Space (Ubuntu)
+  uses: jlumbroso/free-disk-space@v1.1.0
